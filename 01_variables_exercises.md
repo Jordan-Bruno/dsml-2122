@@ -1,4 +1,4 @@
-# Variables Exercises
+# Variables Exercise
 
 1. Create a new variable called `num1`.
 2. Assign the value `10` to the `num1` variable.
