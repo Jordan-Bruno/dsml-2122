@@ -12,6 +12,10 @@ Pre-work for students enrolled in the DSML 21-22 module on the e-BM course. Pyth
 
 * Python 3.6 or later
 
+## Help
+
+* [Anaconda Installation Walkthrough](https://web.microsoftstream.com/video/6770fcfb-298d-4637-be11-1b3b3f97ad4f)
+
 ## Authors
 
 Dr. Michael Mortenson - m.mortenson@warwick.ac.uk
