@@ -6,6 +6,12 @@ Student pre-work for the DSML module 21-22.
 
 Pre-work for students enrolled in the DSML 21-22 module on the e-BM course. Python Notebooks covering the fundamentals of the Python programming language and the pandas software library.
 
+## Getting Started
+
+### Dependencies
+
+* Python 3.6 or later
+
 ## Authors
 
 Dr. Michael Mortenson - m.mortenson@warwick.ac.uk
