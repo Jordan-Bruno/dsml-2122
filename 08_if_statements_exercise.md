@@ -1,6 +1,6 @@
 # If Statements Exercise
 
-1. Write an if-else chain that determines and prints persons chinese zodiac animal based on the year they were born.
+1. Write an if-else chain that determines and prints a person's chinese zodiac animal based on the year they were born.
 
 |Animal|Years|
 |---|---|
